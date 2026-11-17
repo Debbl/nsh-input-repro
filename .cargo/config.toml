@@ -1,0 +1,7 @@
+# Every NSH crate from longbridge/nsh at 9042f3be86d2ad3920ebad141da99d7f3710146b (main, 2026-11-12).
+[patch.crates-io]
+nsh-base = { git = "https://github.com/longbridge/nsh", rev = "9042f3be86d2ad3920ebad141da99d7f3710146b" }
+nsh-core = { git = "https://github.com/longbridge/nsh", rev = "9042f3be86d2ad3920ebad141da99d7f3710146b" }
+nsh-platform-macos = { git = "https://github.com/longbridge/nsh", rev = "9042f3be86d2ad3920ebad141da99d7f3710146b" }
+nsh-platform-linux = { git = "https://github.com/longbridge/nsh", rev = "9042f3be86d2ad3920ebad141da99d7f3710146b" }
+nsh-platform-windows = { git = "https://github.com/longbridge/nsh", rev = "9042f3be86d2ad3920ebad141da99d7f3710146b" }
